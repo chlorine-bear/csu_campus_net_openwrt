@@ -1,0 +1,2 @@
+# csu_campus_net_openwrt
+OpenWrt自动登录中南大学校园网脚本
